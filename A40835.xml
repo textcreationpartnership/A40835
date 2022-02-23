@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Famous and joyfull victory obtained by Sir John Merricks regiment and one troop of horse against the towne and castle of Portsmouth August 24, 1642 and read in the House of Commons on Wednesday last : wherein is set downe a true and exact relation of the manner of that famous and renowned battell fought betwixt the gentry of Portsmouth and Colonell Goring ... published for the joy and comfort of all true-hearted Protestants.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40835</idno>
+            <idno type="STC">Wing F356A</idno>
+            <idno type="STC">ESTC R26705</idno>
+            <idno type="EEBO-CITATION">09523568</idno>
+            <idno type="OCLC">ocm 09523568</idno>
+            <idno type="VID">43479</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40835)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43479)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1331:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Famous and joyfull victory obtained by Sir John Merricks regiment and one troop of horse against the towne and castle of Portsmouth August 24, 1642 and read in the House of Commons on Wednesday last : wherein is set downe a true and exact relation of the manner of that famous and renowned battell fought betwixt the gentry of Portsmouth and Colonell Goring ... published for the joy and comfort of all true-hearted Protestants.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. Williams,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title: True and happy news from Portsmouth.</note>
+                  <note>"Ordered that this be printed and published, Hen. Elsyng, Cler. Parl. D. Com."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Meyrick, John, --  Sir, d. 1659.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Portsmouth (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43479:1"/>
+            <pb facs="tcp:43479:1" rendition="simple:additions"/>
+            <p>A Famous and Joyfull VICTORY OBTAINED BY Sir <hi>John Merricks</hi> Regiment, and one Troop of Horſe, againſt the Towne and Caſtle of <hi>Portſmouth, Auguſt</hi> 24. 1642. And read in the Houſe of Commons on Wedneſday laſt.</p>
+            <p>Wherein is ſet downe A true and exact Relation of the manner of that famous and renowned Battell, fought betwixt the Gentry of <hi>Portſmouth</hi> and Colonell <hi>Goring.</hi>
+            </p>
+            <p>Where being 20 pieces of Ordnance planted againſt the Caſtle upon the Towne Walls by the Gentry thereof, <hi>Aug.</hi> 20. They ſhot againſt the Caſtle, and after a long and tedious Fight they obtained a glorious Victory, as will appeare in this enſuing Treatiſe.</p>
+            <p>Publiſhed for the joy and comfort of all true-hearted <hi>Proteſtants.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſyng, Cler. parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>Aug.</hi> 26. Printed for <hi>I. Williams,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43479:2" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:43479:2"/>
+            <head>TRUE AND Happy News from <hi>Portſmouth.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S our ſorrow hath encreaſed of late dayes, by reaſon of the unfaithfulneſſe of Co<g ref="char:EOLhyphen"/>lonell <hi>Goring,</hi> ſo our joy doth much more abound by reaſon of the comfortable tydings here arrived from the Towne of <hi>Portſmouth,</hi> which after ſome ſmall time treating upon the proceedings of the adjoyning County thereabouts. I will relate in a moſt true and exact manner of the taking of the ſaid Towne of <hi>Portſmouth</hi> againe by the aide and aſſiſtance of the well affected people neere the Iſle of <hi>Wight,</hi> which ſaid Towne I hope will bee reſtored into the Parliaments power and autho<g ref="char:EOLhyphen"/>rity,
+<pb n="2" facs="tcp:43479:3"/>ſo that they may place ſuch Commanders and well affected Subjects as ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll venture their precious blood for the keeping and maintaining of the ſame againſt all thoſe that ſhall preſume or offer to make any attempt againſt it, and that they may be ſuch perſons as the Parliament may confide in, which we make no queſtion but that the Parliament ſo ſoone as the ſaid Towne is reſigned up to them, that they will place ſuch worthy Members of the Proteſtant Religion, that they ſhall not betray the truth and truſt that is repoſed in them by theſe our worthy and Honourable Senators; but becauſe I will not treſpaſſe too farre upon the Readers patience, I will proceed and relate the reſolution and pro<g ref="char:EOLhyphen"/>ceedings of the adjoyning Counties neere <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> which was to this effect, That when the Inhabitants thereof ſaw that Colonell <hi>Goring</hi> had proved falſe contrary to the Parliaments ſuſpition, they immediately began to raiſe For<g ref="char:EOLhyphen"/>ces, and daily beat up their Drums for Volun<g ref="char:EOLhyphen"/>teers, and the Lieutenants of the adjoyning Coun<g ref="char:EOLunhyphen"/>ties, when they had raiſed about the number of 3000. men, they marched towards <hi>Portſmouth,</hi> and Colonell <hi>Goring</hi> having made great Fortifi<g ref="char:EOLhyphen"/>cations and Bulwarks neere the Bridge, which is diſtant from the Towne three miles, but our men being endewed with much courage aſſalted the ſame, and after ſome ten ſhots made againſt
+<pb n="3" facs="tcp:43479:3"/>it, they beat downe the Workes that were made by Colonell <hi>Goring,</hi> who having otained the ſame, they marched about the Towne about the ſpace of 7. miles, but being not ſatisfied, and in great rage againſt the ſaid Colonell, they unani<g ref="char:EOLhyphen"/>mouſly reſolved to aſſemble together at a place called <hi>Deskets Greene,</hi> five miles from <hi>Portſ<g ref="char:EOLhyphen"/>mouth,</hi> who having conſulted a great while upon many matters of high conſequence, they reſol<g ref="char:EOLhyphen"/>ved to march againſt the Caſtle at <hi>Portſmouth,</hi> but firſt they reſolved to joyne with the Towne, and then to plant Ordnance on the Walls: And the Inhabitants of <hi>Wiltſhire</hi> propounded theſe following Propoſitions to the Gentry of the Towne.
+<list>
+                  <item>1. That they would be pleaſed to joyne with them.</item>
+                  <item>2. That they would be pleaſed to the utter<g ref="char:EOLhyphen"/>moſt of their power to ſuppreſſe all thoſe that they they thought ill-affected within the Town, and that they would give them ſuch command that they ſhould depart the Towne in two dayes. ſpace.</item>
+               </list>
+            </p>
+            <p>And laſtly, that they would bee pleaſed to make a generall Speech in the Towne for Armes and Ammunition, that ſo by that meanes they might be the abler to defend themſelves againſt the Caſtle.</p>
+            <pb n="4" facs="tcp:43479:4"/>
+            <p> which propoſitions were well agreeing to the minds of the Gentry of the Towne, and gave them much content, and after ſome time ſpent in peruſing of them, they returned this Anſwer, That for their love and affection, which they plainely manifeſted to the fore-going propoſiti<g ref="char:EOLhyphen"/>ons, they gave them much thanks with a concur<g ref="char:EOLhyphen"/>rence therein: And upon the 22. of this month the Inhabitants of the Towne, having planted their Ordnance according as they thought fitting diſcharged againſt the Caſtle, and at the firſt ſhot they ſhot downe one of the Forts, which Colonell <hi>Goring</hi> ſeeing, plaid againſt them with much furious courage, inſomuch that there was a great and bloudy battell fought betwixt them, and for the ſpace of nine houres they diſcharged very thicke one againſt the other, and it is ſup<g ref="char:EOLhyphen"/>poſed that Colonell <hi>Goring</hi> hath loſt a great number of men, but none of ours being ſpent in this Fight, the ſaid Colonell ſounded a parley and deſired that their might be a ceſſation for ſome certaine time, but the Inhabitants would not agree thereto, but ſtill continued their con<g ref="char:EOLhyphen"/>tinued and conſtant reſolution towards the Parliament, and vowed either to win the Caſtle or to loſe their lives, but when that Colonell <hi>Goring</hi> ſaw they would not agree that there ſhould be a ceſſation for ſome certaine time and knowing no other way but to fight or dye, en<g ref="char:EOLhyphen"/>couraged
+<pb n="5" facs="tcp:43479:4"/>his men as much as poſſibly he could, and ſpoke theſe following words unto them. <hi>Gentlemen, you now ſee that Fortune doth a little frowne upon us, but yet if wee doe our endeavours and fight with courage, no queſtion but we ſhall ob<g ref="char:EOLhyphen"/>taine the victory and eſcape the edge of the ſword, now ſhew your ſelves like men and ſight with mee, for as long as this hand is able to hold a ſword, and theſe legges to beare my body, I will never yeeld, neither will I ceaſe from uſing the beſt skill I have to preſerve you all, for now you muſt either gaine Honour or Defame.</hi> His Souldiers having heard theſe words of their Lord and Maſter, reſolved to fight it out to the laſt man, and thereupon be<g ref="char:EOLhyphen"/>gan to play with extraordinary courage againſt the Towne walls, but all was in vaine, for the Gentlemen that ſtood for the Parliament ſtood for the Parliament couragiouſly, and plyed ſhot very hard againſt them, but both ſides being ve<g ref="char:EOLhyphen"/>ry weary by reaſon of the long continuance of the Fight, they left for ſome certaine time there being neere upon a hundred men ſlaine of Co<g ref="char:EOLhyphen"/>lonell <hi>Gorings,</hi> and not above twenty at the moſt of the Parliaments; and it is thought they doe intend to make another onſet againſt the Caſtle within theſe few dayes, for it is credibly repor<g ref="char:EOLhyphen"/>ted to both Houſes of Parliament, that there is now great poſſibility of taking the Towne which God ſend thoſe tydings to this City.</p>
+            <pb n="6" facs="tcp:43479:5"/>
+            <p> The Parliament being informed of Marqueſſe <hi>Hertfords</hi> intention to come and aſſiſt <hi>Goring,</hi> ſent away Sir <hi>Iohn Merricks</hi> Regiment, and one Troop of Horſe, which upon Tueſday laſt joyn<g ref="char:EOLhyphen"/>ed with the reſt of the Forces before <hi>Portſmouth</hi> as alſo did a Trained Band of <hi>Hampſhire</hi> joyntly with the other Forces, to oppoſe Marqueſſe <hi>Hertford</hi> and his ſtrength, in caſe they ſhould come: And its writ, that the Saylors very ſud<g ref="char:EOLhyphen"/>denly intend to ſcale the Walls in one part, Sir <hi>Iohn Merricks</hi> Regiment in another, and the <hi>Hampſhire</hi> men in a third place, all at once, and the Horſe to ſecond the execution and ſucceſſe of the ſervice.</p>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <p>Ordered to be forthwith Printed and pub<g ref="char:EOLhyphen"/>liſhed.</p>
+            <closer>
+               <signed>Hen. Elſynge, Cler. Par. D.C.</signed>
+            </closer>
+            <pb facs="tcp:43479:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
